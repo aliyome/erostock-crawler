@@ -1,0 +1,12 @@
+{
+  "name": "erostock-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aliyome",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jsdom": "^15.2.1"
+  }
+}
